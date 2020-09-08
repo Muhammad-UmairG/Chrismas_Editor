@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Glitter Photo frames Effects Filter Editor</string>
+
+
+    <string name="app_id" translatable="false">ca-app-pub-5362513888333847~1766181157</string>
+    <string name="bannerads" translatable="false">466247687501614_472744923518557</string>
+    <string name="banneradsrect" translatable="false">466247687501614_479765946149788</string>
+    <string name="interstitialads" translatable="false">466247687501614_467495040710212</string>
+-
+    <string name="addtext">Add Text</string>
+    <string name="captions">Captions</string>
+    <string name="editcontrast">Contrast</string>
+    <string name="editexposure">Exposure</string>
+    <string name="edithightlightsave">Highlights Save</string>
+    <string name="editphoto">Edit Photo</string>
+    <string name="editshadowsave">Shadows Save</string>
+    <string name="editsharpen">Sharpen</string>
+    <string name="edittemperature">Temperature</string>
+    <string name="edittext">Edit Text</string>
+    <string name="editvignette">Vignette</string>
+    <string name="effects">Effects</string>
+
+    <string name="font">Font</string>
+    <string name="frame" translatable="false">Glitter Frames</string>
+
+    <string name="label_cancel">Cancel</string>
+    <string name="label_ok">OK</string>
+
+    <string name="permission_title_rationale">Permission needed</string>
+    <string name="permission_write_storage_rationale">Storage write permission is needed to save the image.</string>
+    <string name="savephoto">Saved to Gallery</string>
+
+    <string name="gifts" translatable="false">Christmas Gifts</string>
+    <string name="ucrop_menu_crop">Crop</string>
+
+    <string name="share">Share App</string>
+
+    <string name="gallery">Gallery</string>
+
+    <string name="camera">Camera</string>
+    <string name="saved_pictures_title">Saved Pictures</string>
+    <string name="privacy_policy_title"><u>Privacy Policy</u></string>
+    <string name="rate_us_title">Rate Us</string>
+    <string name="txt_shareWith" translatable="false">-- Share With --</string>
+    <string name="app_not_found" translatable="false">Application not found!!!</string>
+    <string name="txt_shareImag" translatable="false">Share Image</string>
+    <string name="fb_package_name" translatable="false">com.facebook.katana</string>
+    <string name="insta_package_name" translatable="false">com.instagram.android</string>
+    <string name="twitter_package_name" translatable="false">com.twitter.android</string>
+    <string name="whatsapp_package_name" translatable="false">com.whatsapp</string>
+    <string name="santa" translatable="false">Santa Claus</string>
+    <string name="hat" translatable="false">Christmas Caps</string>
+    <string name="tree" translatable="false">Christmas Trees</string>
+    <string name="light" translatable="false">christmas lights</string>
+</resources>

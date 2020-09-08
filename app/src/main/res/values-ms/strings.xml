@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bingkai Foto bergemerlapan Kesan Penapis Editor</string>
+    <string name="addtext">Tambah teks</string>
+    <string name="camera">Kamera</string>
+    <string name="captions">Kapsyen</string>
+    <string name="editcontrast">Sebaliknya</string>
+    <string name="editexposure">Pendedahan</string>
+    <string name="edithightlightsave">Sorotan Simpan</string>
+    <string name="editphoto">Edit Foto</string>
+    <string name="editshadowsave">Shadows Save</string>
+    <string name="editsharpen">Tajuk</string>
+    <string name="edittemperature">Suhu</string>
+    <string name="edittext">Edit Teks</string>
+    <string name="editvignette">Vignette</string>
+    <string name="effects">Kesan</string>
+    <string name="font">Fon</string>
+    <string name="frames">Bingkai Glitter</string>
+    <string name="gallery">Galeri</string>
+    <string name="label_cancel">Batalkan</string>
+    <string name="label_ok">OKEY</string>
+    <string name="permission_title_rationale">Kebenaran diperlukan</string>
+    <string name="permission_write_storage_rationale">Kebenaran menulis simpanan diperlukan untuk menyimpan imej</string>
+    <string name="privacy_policy_title"><u>Dasar Privasi</u></string>
+    <string name="rate_us_title">Beri Nilai Kami</string>
+    <string name="saved_pictures_title">Gambar Tersimpan</string>
+    <string name="savephoto">Disimpan ke Galeri</string>
+    <string name="share">Kongsi App</string>
+    <string name="stickers">Pelekat</string>
+    <string name="ucrop_menu_crop">Potong</string>
+</resources>

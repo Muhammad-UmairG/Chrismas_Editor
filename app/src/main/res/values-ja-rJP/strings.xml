@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">キラキラフォトフレーム効果フィルタエディタ</string>
+    <string name="addtext">テキストを追加</string>
+    <string name="camera">カメラ</string>
+    <string name="captions">キャプション</string>
+    <string name="editcontrast">コントラスト</string>
+    <string name="editexposure">暴露</string>
+    <string name="edithightlightsave">ハイライト保存</string>
+    <string name="editphoto">写真を編集する</string>
+    <string name="editshadowsave">影を保存します</string>
+    <string name="editsharpen">研ぎます</string>
+    <string name="edittemperature">温度</string>
+    <string name="edittext">テキストを編集します</string>
+    <string name="editvignette">ビネット</string>
+    <string name="effects">効果</string>
+    <string name="font">フォント</string>
+    <string name="frames">キラキラフレーム</string>
+    <string name="gallery">ギャラリー</string>
+    <string name="label_cancel">キャンセル</string>
+    <string name="label_ok">OK</string>
+    <string name="permission_title_rationale">許可が必要です</string>
+    <string name="permission_write_storage_rationale">イメージを保存するにはストレージ書き込み許可が必要です。</string>
+    <string name="privacy_policy_title"><u>個人情報保護方針</u></string>
+    <string name="rate_us_title">私たちを評価してください</string>
+    <string name="saved_pictures_title">写真を保存しました</string>
+    <string name="savephoto">ギャラリーに保存しました</string>
+    <string name="share">共有アプリ</string>
+    <string name="stickers">ステッカー</string>
+    <string name="ucrop_menu_crop">トリミング</string>
+</resources>

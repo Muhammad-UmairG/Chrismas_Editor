@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Блиск Фоторамки Ефекти Редактор фільтрів</string>
+    <string name="addtext">Додати текст</string>
+    <string name="camera">Камера</string>
+    <string name="captions">Підписи</string>
+    <string name="editcontrast">Контраст</string>
+    <string name="editexposure">Експозиція</string>
+    <string name="edithightlightsave">Основні пункти Зберегти</string>
+    <string name="editphoto">Редагувати фото</string>
+    <string name="editshadowsave">Зберегти тіні</string>
+    <string name="editsharpen">Збільшити різкість</string>
+    <string name="edittemperature">Температура</string>
+    <string name="edittext">Редагувати текст</string>
+    <string name="editvignette">Віньєтка</string>
+    <string name="effects">Ефекти</string>
+    <string name="font">Шрифт</string>
+    <string name="frames">Блиск кадрів</string>
+    <string name="gallery">Галерея</string>
+    <string name="label_cancel">Скасувати</string>
+    <string name="label_ok">В ПОРЯДКУ</string>
+    <string name="permission_title_rationale">Потрібен дозвіл</string>
+    <string name="permission_write_storage_rationale">Для збереження зображення потрібен дозвіл на запис.</string>
+    <string name="privacy_policy_title">Політика конфіденційності</string>
+    <string name="rate_us_title">Оцініть нас</string>
+    <string name="saved_pictures_title">Збережені зображення</string>
+    <string name="savephoto">Збережено до Галереї</string>
+    <string name="share">Поділитися App</string>
+    <string name="stickers">Наклейки</string>
+    <string name="ucrop_menu_crop">Урожай, врожай</string>
+</resources>

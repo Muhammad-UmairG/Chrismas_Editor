@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glitter Κορνίζες φωτογραφιών Επιλογές επεξεργαστή φίλτρων</string>
+    <string name="addtext">Προσθέστε κείμενο</string>
+    <string name="camera">ΦΩΤΟΓΡΑΦΙΚΗ ΜΗΧΑΝΗ</string>
+    <string name="captions">Λεζάντες</string>
+    <string name="editcontrast">Αντίθεση</string>
+    <string name="editexposure">Εκθεση</string>
+    <string name="edithightlightsave">Χαρακτηριστικά Αποθήκευση</string>
+    <string name="editphoto">Επεξεργασία φωτογραφίας</string>
+    <string name="editshadowsave">Αποθήκευση σκιών</string>
+    <string name="editsharpen">Ακονίζω</string>
+    <string name="edittemperature">Θερμοκρασία</string>
+    <string name="edittext">Επεξεργασία κειμένου</string>
+    <string name="editvignette">Βινιέτα</string>
+    <string name="effects">Υπάρχοντα</string>
+    <string name="font">Γραμματοσειρά</string>
+    <string name="frames">Glitter Frames</string>
+    <string name="gallery">Εκθεσιακός χώρος</string>
+    <string name="label_cancel">Ματαίωση</string>
+    <string name="label_ok">Ματαίωση</string>
+    <string name="permission_title_rationale">Απαιτείται άδεια</string>
+    <string name="permission_write_storage_rationale">Απαιτείται άδεια εγγραφής αποθήκευσης για να αποθηκευτεί η εικόνα</string>
+    <string name="privacy_policy_title"><u>Πολιτική Απορρήτου</u></string>
+    <string name="rate_us_title">Βαθμολογήστε μας</string>
+    <string name="saved_pictures_title">Αποθηκευμένες εικόνες</string>
+    <string name="savephoto">Αποθηκεύτηκε στην Έκθεση</string>
+    <string name="share">Κοινή χρήση εφαρμογής</string>
+    <string name="stickers">Αυτοκόλλητα</string>
+    <string name="ucrop_menu_crop">Καλλιέργεια</string>
+</resources>

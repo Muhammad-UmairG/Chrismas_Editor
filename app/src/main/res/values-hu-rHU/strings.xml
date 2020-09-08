@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Csillogó fényképkeretek Szűrőszerkesztő hatását</string>
+    <string name="addtext">Szöveg hozzáadása</string>
+    <string name="camera">Kamera</string>
+    <string name="captions">Feliratokkal</string>
+    <string name="editcontrast">Kontraszt</string>
+    <string name="editexposure">Az expozíció</string>
+    <string name="edithightlightsave">"énypontok Mentés</string>
+    <string name="editphoto">Fénykép szerkesztése</string>
+    <string name="editshadowsave">Árnyékok Mentés</string>
+    <string name="editsharpen">Élesíti</string>
+    <string name="edittemperature">Hőmérséklet</string>
+    <string name="edittext">Szöveg szerkesztése</string>
+    <string name="editvignette">Címke</string>
+    <string name="effects">Hatások</string>
+    <string name="font">Betűtípus</string>
+    <string name="frames">Csillogó keretek</string>
+    <string name="gallery">Képtár</string>
+    <string name="label_cancel">Megszünteti</string>
+    <string name="label_ok">RENDBEN</string>
+    <string name="permission_title_rationale">Engedély szükséges</string>
+    <string name="permission_write_storage_rationale">A kép mentéséhez tárolási írási engedély szükséges.</string>
+    <string name="privacy_policy_title"><u>Adatvédelmi irányelvek</u></string>
+    <string name="rate_us_title">Értékelj minket</string>
+    <string name="saved_pictures_title">Mentett képek</string>
+    <string name="savephoto">Elmentve a Galériába</string>
+    <string name="share">Ossza meg az alkalmazást</string>
+    <string name="stickers">Matricák</string>
+    <string name="ucrop_menu_crop">Vág</string>
+</resources>

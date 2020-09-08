@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Блеск Фоторамки Редактор фильтров эффектов</string>
+    <string name="addtext">Добавить текст</string>
+    <string name="camera">Камера</string>
+    <string name="captions">Титры</string>
+    <string name="editcontrast">Контраст</string>
+    <string name="editexposure">Экспозиция</string>
+    <string name="edithightlightsave">Основные Сохранить</string>
+    <string name="editphoto">Редактировать фотографию</string>
+    <string name="editshadowsave">Тени Сохранить</string>
+    <string name="editsharpen">Резкость</string>
+    <string name="edittemperature">Температура</string>
+    <string name="edittext">Редактировать текст</string>
+    <string name="editvignette">Виньетка</string>
+    <string name="effects">Последствия</string>
+    <string name="font">Шрифт</string>
+    <string name="frames">Блеск Рамки</string>
+    <string name="gallery">Галерея</string>
+    <string name="label_cancel">Отменить</string>
+    <string name="label_ok">ХОРОШО</string>
+    <string name="permission_title_rationale">Разрешение необходимо</string>
+    <string name="permission_write_storage_rationale">Разрешение на запись в хранилище необходимо для сохранения изображения.</string>
+    <string name="privacy_policy_title">Политика конфиденциальности</string>
+    <string name="rate_us_title">Оцените нас</string>
+    <string name="saved_pictures_title">Сохраненные картинки</string>
+    <string name="savephoto">Сохранено в галерее</string>
+    <string name="share">Поделиться приложением</string>
+    <string name="stickers">Наклейки</string>
+    <string name="ucrop_menu_crop">урожай</string>
+</resources>

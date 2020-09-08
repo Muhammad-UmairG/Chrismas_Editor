@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">반짝이 사진 프레임 효과 필터 편집기</string>
+    <string name="addtext">텍스트를 추가하십시오</string>
+    <string name="camera">카메라</string>
+    <string name="captions">캡션</string>
+    <string name="editcontrast">대조</string>
+    <string name="editexposure">노출</string>
+    <string name="edithightlightsave">하이라이트 저장</string>
+    <string name="editphoto">사진 수정</string>
+    <string name="editshadowsave">그림자 저장</string>
+    <string name="editsharpen">갈다</string>
+    <string name="edittemperature">온도</string>
+    <string name="edittext">텍스트 편집</string>
+    <string name="editvignette">소품</string>
+    <string name="effects">효과</string>
+    <string name="font">세례반</string>
+    <string name="frames">반짝이 프레임</string>
+    <string name="gallery">갱도</string>
+    <string name="label_cancel">취소</string>
+    <string name="label_ok">승인</string>
+    <string name="permission_title_rationale">허가가 필요합니다</string>
+    <string name="permission_write_storage_rationale">이미지를 저장하려면 저장소 쓰기 권한이 필요합니다.</string>
+    <string name="privacy_policy_title"><u>개인 정보 정책</u></string>
+    <string name="rate_us_title">평가하기</string>
+    <string name="saved_pictures_title">저장된 사진</string>
+    <string name="savephoto">갤러리에 저장되었습니다</string>
+    <string name="share">앱 공유</string>
+    <string name="stickers">스티커</string>
+    <string name="ucrop_menu_crop">수확고</string>
+</resources>

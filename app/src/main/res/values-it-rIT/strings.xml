@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cornici per foto glitter Effetti Editor filtri</string>
+    <string name="addtext">Aggiungi testo</string>
+    <string name="camera">Telecamera</string>
+    <string name="captions">Didascalie</string>
+    <string name="editcontrast">Contrasto</string>
+    <string name="editexposure">Esposizione</string>
+    <string name="edithightlightsave">Aspetti salienti Salva</string>
+    <string name="editphoto">Modifica foto</string>
+    <string name="editshadowsave">Ombre Salva</string>
+    <string name="editsharpen">Affilare</string>
+    <string name="edittemperature">Temperatura</string>
+    <string name="edittext">Modifica il testo</string>
+    <string name="editvignette">Vignette</string>
+    <string name="effects">Effetti</string>
+    <string name="font">Font</string>
+    <string name="frames">Cornici glitterate</string>
+    <string name="gallery">Galleria</string>
+    <string name="label_cancel">Annulla</string>
+    <string name="label_ok">OK</string>
+    <string name="permission_title_rationale">È necessaria l\'autorizzazione</string>
+    <string name="permission_write_storage_rationale">Il permesso di scrittura dello spazio di archiviazione è necessario per salvare l\'immagine.</string>
+    <string name="privacy_policy_title"><u>Politica sulla riservatezza</u></string>
+    <string name="rate_us_title">Valutaci</string>
+    <string name="saved_pictures_title">Immagini salvate</string>
+    <string name="savephoto">Salvato in galleria</string>
+    <string name="share">Condividi app</string>
+    <string name="stickers">Adesivi</string>
+    <string name="ucrop_menu_crop">Ritaglia</string>
+</resources>

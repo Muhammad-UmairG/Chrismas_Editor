@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بريق إطارات الصور آثار تصفية محرر</string>
+    <string name="addtext">إضافة نص</string>
+    <string name="camera">الة تصوير</string>
+    <string name="label_cancel">إلغاء</string>
+    <string name="captions">التسميات التوضيحية</string>
+    <string name="gallery_message">اختيار صورة من معرض</string>
+    <string name="editcontrast">تناقض</string>
+    <string name="editphoto">تعديل الصورة</string>
+    <string name="edittext">تحرير النص</string>
+    <string name="effects">تأثيرات</string>
+    <string name="editexposure">مكشف</string>
+    <string name="font">الخط</string>
+    <string name="gallery">صالة عرض</string>
+    <string name="frames">إطارات بريق</string>
+    <string name="edithightlightsave">يبرز حفظ</string>
+    <string name="more">أكثر من</string>
+    <string name="moreapps">تطبيقات أكثر رهيبة</string>
+    <string name="label_ok">حسنا</string>
+    <string name="permission_title_rationale">إذن اللازمة</string>
+    <string name="privacy_policy_title">سياسة خاصة</string>
+    <string name="rate_us_title">قيمنا</string>
+    <string name="saved_pictures_title">الصور المحفوظة</string>
+    <string name="savephoto">تم الحفظ في المعرض</string>
+    <string name="editshadowsave">حفظ الظلال</string>
+    <string name="share">شارك التطبيق</string>
+    <string name="share_message">مشاركة التطبيق مع الأصدقاء</string>
+    <string name="editsharpen">شحذ</string>
+    <string name="stickers">ملصقات</string>
+    <string name="permission_read_storage_rationale">هناك حاجة إلى إذن قراءة التخزين لاختيار الملفات.</string>
+    <string name="permission_write_storage_rationale">هناك حاجة إلى إذن الكتابة التخزين لحفظ الصورة.</string>
+    <string name="edittemperature">درجة الحرارة</string>
+    <string name="editvignette">المقالة القصيرة</string>
+    <string name="ucrop_menu_crop">محصول</string>
+</resources>

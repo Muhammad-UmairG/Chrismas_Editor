@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glitter Fotoğraf çerçeveleri Etkileri Filtre Editör</string>
+    <string name="addtext">Yazı ekle</string>
+    <string name="camera">Kamera</string>
+    <string name="captions">Başlıklar</string>
+    <string name="editcontrast">Kontrast</string>
+    <string name="editexposure">Poz</string>
+    <string name="edithightlightsave">Önemli Noktalar Kaydet</string>
+    <string name="editphoto">Fotoğrafı Düzenle</string>
+    <string name="editshadowsave">Gölgeler Tasarruf Edin</string>
+    <string name="editsharpen">Keskinleştirir</string>
+    <string name="edittemperature">Sıcaklık</string>
+    <string name="edittext">Metni düzenle</string>
+    <string name="editvignette">Vinyet</string>
+    <string name="effects">Etkileri</string>
+    <string name="font">Yazı tipi</string>
+    <string name="frames">Glitter Çerçeveler</string>
+    <string name="gallery">Galeri</string>
+    <string name="label_cancel">İptal etmek</string>
+    <string name="label_ok">TAMAM</string>
+    <string name="permission_title_rationale">İzin gerekli</string>
+    <string name="permission_write_storage_rationale">Görüntüyü kaydetmek için depolama yazma izni gereklidir.</string>
+    <string name="privacy_policy_title">Gizlilik Politikası</string>
+    <string name="rate_us_title">Bizi değerlendirin</string>
+    <string name="saved_pictures_title">Resimler kaydedildi</string>
+    <string name="savephoto">Galeri’ye kaydedildi</string>
+    <string name="share">Uygulamayı Paylaş</string>
+    <string name="stickers">Çıkartma</string>
+    <string name="ucrop_menu_crop">Mahsul</string>
+</resources>

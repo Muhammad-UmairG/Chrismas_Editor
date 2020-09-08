@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glitter Cadres photo Effets Filtre Éditeur</string>
+    <string name="addtext">Ajouter du texte</string>
+    <string name="camera">Caméra</string>
+    <string name="captions">Légendes</string>
+    <string name="editcontrast">Contraste</string>
+    <string name="editexposure">Exposition</string>
+    <string name="edithightlightsave">Faits saillants Enregistrer</string>
+    <string name="editphoto">Modifier photo</string>
+    <string name="editshadowsave">Les ombres sauvent</string>
+    <string name="editsharpen">Netteté</string>
+    <string name="edittemperature">Température</string>
+    <string name="edittext">Éditer le texte</string>
+    <string name="editvignette">Vignette</string>
+    <string name="effects">Effets</string>
+    <string name="font">Police de caractère</string>
+    <string name="frames">Cadres de paillettes</string>
+    <string name="gallery">Galerie</string>
+    <string name="label_cancel">Annuler</string>
+    <string name="label_ok">D\'accord</string>
+    <string name="permission_title_rationale">Permission nécessaire</string>
+    <string name="permission_write_storage_rationale">Une autorisation d’écriture de stockage est nécessaire pour enregistrer l’image</string>
+    <string name="privacy_policy_title"><u>Politique de confidentialité</u></string>
+    <string name="rate_us_title">Évaluez nous</string>
+    <string name="saved_pictures_title">Photos sauvegardées</string>
+    <string name="savephoto">Enregistré dans la galerie</string>
+    <string name="share">Partager App</string>
+    <string name="stickers">Des autocollants</string>
+    <string name="ucrop_menu_crop">Surgir</string>
+</resources>

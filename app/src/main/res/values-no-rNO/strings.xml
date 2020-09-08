@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glitter Fotorammer Effekter Filter Editor</string>
+    <string name="addtext">Legg til tekst</string>
+    <string name="camera">Kamera</string>
+    <string name="captions">Bildetekster</string>
+    <string name="editcontrast">Kontrast</string>
+    <string name="editexposure">Eksponering</string>
+    <string name="edithightlightsave">Høydepunkter Lagre</string>
+    <string name="editphoto">Rediger bilde</string>
+    <string name="editshadowsave">Skygger Lagre</string>
+    <string name="editsharpen">Spisse</string>
+    <string name="edittemperature">Temperatur</string>
+    <string name="edittext">Rediger tekst</string>
+    <string name="editvignette">Vignett</string>
+    <string name="effects">Effekter</string>
+    <string name="font">Font</string>
+    <string name="frames">Glitterrammer</string>
+    <string name="gallery">Galleri</string>
+    <string name="label_cancel">Avbryt</string>
+    <string name="label_ok">OK</string>
+    <string name="permission_title_rationale">Tillatelse nødvendig</string>
+    <string name="permission_write_storage_rationale">Lagringsskrivetillatelse er nødvendig for å lagre bildet.</string>
+    <string name="privacy_policy_title"><u>Personvernregler</u></string>
+    <string name="rate_us_title">Rangere oss</string>
+    <string name="saved_pictures_title">Lagrede bilder</string>
+    <string name="savephoto">Lagret til Galleri</string>
+    <string name="share">Del App</string>
+    <string name="stickers">Klistremerker</string>
+    <string name="ucrop_menu_crop">Avling</string>
+</resources>

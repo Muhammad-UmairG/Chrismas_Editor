@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glitteri pildiraamid Effect Filter Editor</string>
+    <string name="addtext">Lisage tekst</string>
+    <string name="camera">Kaamera</string>
+    <string name="captions">Pealdised</string>
+    <string name="editcontrast">Kontrast</string>
+    <string name="editexposure">Kokkupuude</string>
+    <string name="edithightlightsave">Tähtsündmused Salvesta</string>
+    <string name="editphoto">Redigeeri fotot</string>
+    <string name="editshadowsave">Varjud Salvesta</string>
+    <string name="editsharpen">Teritage</string>
+    <string name="edittemperature">Temperatuur</string>
+    <string name="edittext">Redigeerige teksti</string>
+    <string name="editvignette">Vignett</string>
+    <string name="effects">Mõjud</string>
+    <string name="font">Font</string>
+    <string name="frames">Glitter raamid</string>
+    <string name="gallery">Galerii</string>
+    <string name="label_cancel">Tühista</string>
+    <string name="label_ok">OKEI</string>
+    <string name="permission_title_rationale">Luba vaja</string>
+    <string name="permission_write_storage_rationale">Pildi salvestamiseks on vajalik salvestusloa luba.</string>
+    <string name="privacy_policy_title"><u>Privaatsuspoliitika</u></string>
+    <string name="rate_us_title">Hinda meid</string>
+    <string name="saved_pictures_title">Salvestatud pildid</string>
+    <string name="savephoto">Salvestatud galeriisse</string>
+    <string name="share">Jagage rakendust</string>
+    <string name="stickers">Kleebised</string>
+    <string name="ucrop_menu_crop">Kärbi</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bingkai foto gemerlap Efek Editor Filter</string>
+    <string name="addtext">Tambahkan teks</string>
+    <string name="camera">Kamera</string>
+    <string name="captions">Keterangan</string>
+    <string name="editcontrast">Kontras</string>
+    <string name="editexposure">Paparan</string>
+    <string name="edithightlightsave">Sorotan Hemat</string>
+    <string name="editphoto">Edit foto</string>
+    <string name="editshadowsave">Bayangan Simpan</string>
+    <string name="editsharpen">Mempertajam</string>
+    <string name="edittemperature">Suhu</string>
+    <string name="edittext">Edit Teks</string>
+    <string name="editvignette">Skema</string>
+    <string name="effects">Efek</string>
+    <string name="font">Font</string>
+    <string name="frames">Bingkai gemerlapnya</string>
+    <string name="gallery">Galeri</string>
+    <string name="label_cancel">Membatalkan</string>
+    <string name="label_ok">BAIK</string>
+    <string name="permission_title_rationale">Izin diperlukan</string>
+    <string name="permission_write_storage_rationale">Izin menulis penyimpanan diperlukan untuk menyimpan gambar.</string>
+    <string name="privacy_policy_title"><u>Rahasia pribadi</u></string>
+    <string name="rate_us_title">Beri Nilai Kami</string>
+    <string name="saved_pictures_title">Gambar Tersimpan</string>
+    <string name="savephoto">Disimpan ke Galeri</string>
+    <string name="share">Bagikan Aplikasi</string>
+    <string name="stickers">Stiker</string>
+    <string name="ucrop_menu_crop">Tanaman</string>
+</resources>

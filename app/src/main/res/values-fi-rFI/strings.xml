@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glitter-valokuvakehykset Vaikuttaa suodatineditoriin</string>
+    <string name="addtext">Lisää teksti</string>
+    <string name="camera">Kamera</string>
+    <string name="captions">Kuvatekstit</string>
+    <string name="editcontrast">Kontrasti</string>
+    <string name="editexposure">Valotus</string>
+    <string name="edithightlightsave">Kohokohdat Tallenna</string>
+    <string name="editphoto">Muokkaa kuvaa</string>
+    <string name="editshadowsave">Varjot Tallenna</string>
+    <string name="editsharpen">Terävöittää</string>
+    <string name="edittemperature">Lämpötila</string>
+    <string name="edittext">Muokkaa tekstiä</string>
+    <string name="editvignette">Vinjetti</string>
+    <string name="effects">Vaikutuksia</string>
+    <string name="font">Fontti</string>
+    <string name="frames">Glitter-kehykset</string>
+    <string name="gallery">Galleria</string>
+    <string name="label_cancel">Peruuttaa</string>
+    <string name="label_ok">OK</string>
+    <string name="permission_title_rationale">Lupa tarvitaan</string>
+    <string name="permission_write_storage_rationale">Kuvan tallentamiseen tarvitaan tallennuslupa.</string>
+    <string name="privacy_policy_title"><u>Tietosuojakäytäntö</u></string>
+    <string name="rate_us_title">Arvioi meidät</string>
+    <string name="saved_pictures_title">Tallennetut kuvat</string>
+    <string name="savephoto">Tallennettu Galleriaan</string>
+    <string name="share">Jaa sovellus</string>
+    <string name="stickers">Tarroja</string>
+    <string name="ucrop_menu_crop">Sato</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glitter Photo frames Editor de filtros de efectos</string>
+    <string name="addtext">Añadir texto</string>
+    <string name="camera">Cámara</string>
+    <string name="captions">Subtítulos</string>
+    <string name="editcontrast">Contraste</string>
+    <string name="editexposure">Exposición</string>
+    <string name="edithightlightsave">Destacados Guardar</string>
+    <string name="editphoto">Editar foto</string>
+    <string name="editshadowsave">Las sombras guardan</string>
+    <string name="editsharpen">Afilar</string>
+    <string name="edittemperature">Temperatura</string>
+    <string name="edittext">Editar texto</string>
+    <string name="editvignette">Viñeta</string>
+    <string name="effects">Efectos</string>
+    <string name="font">Fuente</string>
+    <string name="frames">Marcos de purpurina</string>
+    <string name="gallery">Galería</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="label_ok">DE ACUERDO</string>
+    <string name="permission_title_rationale">Se necesita permiso</string>
+    <string name="permission_write_storage_rationale">Se necesita permiso de escritura de almacenamiento para guardar la imagen.</string>
+    <string name="privacy_policy_title">Política de privacidad</string>
+    <string name="rate_us_title">Nos califica</string>
+    <string name="saved_pictures_title">Imágenes Guardadas</string>
+    <string name="savephoto">Guardado en la galería</string>
+    <string name="share">Compartir aplicación</string>
+    <string name="stickers">Pegatinas</string>
+    <string name="ucrop_menu_crop">Cultivo</string>
+</resources>

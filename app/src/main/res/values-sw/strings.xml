@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glitter Picha muafaka Athari Filter Editor</string>
+    <string name="addtext">Ongeza maandishi</string>
+    <string name="camera">Kamera</string>
+    <string name="captions">Maneno</string>
+    <string name="editcontrast">Tofauti</string>
+    <string name="editexposure">Mfiduo</string>
+    <string name="edithightlightsave">Mambo muhimu Weka</string>
+    <string name="editphoto">Hariri Picha</string>
+    <string name="editshadowsave">Shadows Ila</string>
+    <string name="editsharpen">Piga</string>
+    <string name="edittemperature">Joto</string>
+    <string name="edittext">Hariri Nakala</string>
+    <string name="editvignette">Vignette</string>
+    <string name="effects">Athari</string>
+    <string name="font">Font</string>
+    <string name="frames">Muafaka wa Glitter</string>
+    <string name="gallery">Nyumba ya sanaa</string>
+    <string name="label_cancel">Futa</string>
+    <string name="label_ok">SAWA</string>
+    <string name="permission_title_rationale">Ruhusa inahitajika</string>
+    <string name="permission_write_storage_rationale">Hifadhi ya kuandika kuhifadhi inahitajika ili kuokoa picha.</string>
+    <string name="privacy_policy_title">Sera ya Faragha</string>
+    <string name="rate_us_title">Weka Nasi</string>
+    <string name="saved_pictures_title">Picha Zilizohifadhiwa</string>
+    <string name="savephoto">Imehifadhiwa kwenye Nyumba ya sanaa</string>
+    <string name="share">Shiriki Programu</string>
+    <string name="stickers">Stika</string>
+    <string name="ucrop_menu_crop">Mazao</string>
+</resources>

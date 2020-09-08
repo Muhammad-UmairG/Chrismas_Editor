@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#0000ba</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="ucrop_color_default_logo">#4f212121</color>
+    <color name="ucrop_color_toolbar">@color/color_toolbar</color>
+    <color name="ucrop_color_toolbar_widget">@color/white</color>
+    <color name="ucrop_color_widget">@color/color_toolbar</color>
+    <color name="ucrop_color_widget_active">#FFEB3B</color>
+    <color name="ucrop_color_widget_background">@color/colorPrimary</color>
+    <color name="ucrop_color_widget_text">@color/white</color>
+
+
+    <color name="primary">#0072C6</color>
+    <color name="primary_dark">#004f8a</color>
+    <color name="accent">#FFC107</color>
+    <color name="window_background">#F5F5F5</color>
+    <color name="splash_background">#0078D7</color>
+    <color name="app_name_color">#FF5722</color>
+    <color name="themecolor">#800080</color>
+    <color name="black">#000000</color>
+    <color name="color_toolbar" >@color/themecolor</color>
+
+
+
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

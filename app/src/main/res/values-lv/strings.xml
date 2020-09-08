@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glitter Foto rāmji Effects Filter Editor</string>
+    <string name="addtext">Pievienot tekstu</string>
+    <string name="camera">Kamera</string>
+    <string name="captions">Paraksti</string>
+    <string name="editcontrast">Kontrasts</string>
+    <string name="editexposure">Iedarbība</string>
+    <string name="edithightlightsave">Izceltie dati Saglabāt</string>
+    <string name="editphoto">Rediģēt fotoattēlu</string>
+    <string name="editshadowsave">Ēnas Saglabāt</string>
+    <string name="editsharpen">Asināt</string>
+    <string name="edittemperature">Temperatūra</string>
+    <string name="edittext">Rediģēt tekstu</string>
+    <string name="editvignette">Vinjete</string>
+    <string name="effects">Ietekme</string>
+    <string name="font">Fonts</string>
+    <string name="frames">Glitter rāmji</string>
+    <string name="gallery">Galerija</string>
+    <string name="label_cancel">Atcelt</string>
+    <string name="label_ok">LABI</string>
+    <string name="permission_title_rationale">Nepieciešama atļauja</string>
+    <string name="permission_write_storage_rationale">Lai saglabātu attēlu, ir nepieciešama uzglabāšanas rakstīšanas atļauja.</string>
+    <string name="privacy_policy_title"><u>Privātuma politika</u></string>
+    <string name="rate_us_title">Novērtē mūs</string>
+    <string name="saved_pictures_title">Saglabātie attēli</string>
+    <string name="savephoto">Saglabāts galerijā</string>
+    <string name="share">Koplietot lietotni</string>
+    <string name="stickers">Uzlīmes</string>
+    <string name="ucrop_menu_crop">Apgriezt</string>
+</resources>

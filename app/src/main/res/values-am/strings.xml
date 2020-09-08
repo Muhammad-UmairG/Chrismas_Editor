@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">የሽፋን ፎቶ ፍሬሞች ተፅዕኖዎች ማጣሪያ አርታዒ</string>
+    <string name="addtext">ጽሑፍ አክል</string>
+    <string name="camera">ካሜራ</string>
+    <string name="label_cancel">ሰርዝ</string>
+    <string name="captions">መግለጫ ፅሁፎች</string>
+    <string name="gallery_message">ፎቶ ከማዕከለ ስዕላት ምረጥ</string>
+    <string name="editcontrast">ንፅፅር</string>
+    <string name="ucrop_menu_crop">ይከርክሙ</string>
+    <string name="editphoto">ፎቶ ያርትዑ</string>
+    <string name="edittext">ጽሑፍ አርትዕ</string>
+    <string name="effects">ተፅዕኖዎች</string>
+    <string name="editexposure">ተጋላጭነት</string>
+    <string name="font">ፎንት</string>
+    <string name="gallery">ማዕከለ ስዕላት</string>
+    <string name="edithightlightsave">ድምቀቶች ያስቀምጡ</string>
+    <string name="more">ተጨማሪ</string>
+    <string name="moreapps">ተጨማሪ አሪፍ መተግበሪያዎች</string>
+    <string name="lb_gallery">ማዕከለ ስዕላት</string>
+    <string name="label_ok">እሺ</string>
+    <string name="permission_title_rationale">ፈቃድ ያስፈልጋል</string>
+    <string name="privacy_policy_title"><u>የ ግል የሆነ</u></string>
+    <string name="rate_us_title">ደረጃ ይስጡን</string>
+    <string name="saved_pictures_title">የተቀመጡ ፎቶዎች</string>
+    <string name="savephoto">ወደ ጋለሪ ተቀምጧል</string>
+    <string name="editshadowsave">ጥላዎች ይቆጥቡ</string>
+    <string name="share">መተግበሪያ አጋራ</string>
+    <string name="share_message">መተግበሪያዎችን ለጓደኞች ያጋሩ</string>
+    <string name="editsharpen">ጥለት</string>
+    <string name="stickers">ተለጣፊዎች</string>
+    <string name="permission_read_storage_rationale">ፋይሎችን ለመምረጥ የማከማቻ ፍቃድ ያስፈልጋል.</string>
+    <string name="permission_write_storage_rationale">ምስሉን ለማስቀመጥ የማከማቻ እውቅና ፈቃድ ያስፈልጋል.</string>
+    <string name="edittemperature">የሙቀት መጠን</string>
+    <string name="editvignette">ቪኜት</string>
+    <string name="frames">ቅድሚያ የታዘዘ</string>
+</resources>

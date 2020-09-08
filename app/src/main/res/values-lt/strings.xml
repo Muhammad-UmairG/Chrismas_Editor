@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">„Glitter“ nuotraukų rėmeliai Efektų filtrų redaktorių</string>
+    <string name="addtext">Pridėti tekstą</string>
+    <string name="camera">Fotoaparatas</string>
+    <string name="captions">Antraštės</string>
+    <string name="editcontrast">Kontrastas</string>
+    <string name="editexposure">Poveikis</string>
+    <string name="edithightlightsave">Akcentai Išsaugoti</string>
+    <string name="editphoto">Redaguoti nuotrauką</string>
+    <string name="editshadowsave">Šešėliai Išsaugoti</string>
+    <string name="editsharpen">Padidinkite</string>
+    <string name="edittemperature">Temperatūra</string>
+    <string name="edittext">Redaguoti tekstą</string>
+    <string name="editvignette">Lipdukas</string>
+    <string name="effects">Efektai</string>
+    <string name="font">Šriftas</string>
+    <string name="frames">Blizgučiai rėmeliai</string>
+    <string name="gallery">Galerija</string>
+    <string name="label_cancel">Atšaukti</string>
+    <string name="label_ok">GERAI</string>
+    <string name="permission_title_rationale">Reikalingas leidimas</string>
+    <string name="permission_write_storage_rationale">Norint išsaugoti vaizdą, reikalingas leidimo rašyti leidimas.</string>
+    <string name="privacy_policy_title"><u>Privatumo politika</u></string>
+    <string name="rate_us_title">Įvertinkite mus</string>
+    <string name="saved_pictures_title">Išsaugoti paveikslėliai</string>
+    <string name="savephoto">Išsaugota galerijoje</string>
+    <string name="share">Dalytis programa</string>
+    <string name="stickers">Lipdukai</string>
+    <string name="ucrop_menu_crop">Apkarpyti</string>
+</resources>

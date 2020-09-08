@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">I-Glitter Photo ozimele Imiphumela ye-Filter Editor</string>
+    <string name="addtext">Engeza umbhalo</string>
+    <string name="camera">Ikhamela</string>
+    <string name="captions">Amazwibela</string>
+    <string name="editcontrast">Qhathanisa</string>
+    <string name="editexposure">Ukuvezwa</string>
+    <string name="edithightlightsave">Amaphuzu avelele agcina</string>
+    <string name="editphoto">Hlela isithombe</string>
+    <string name="editshadowsave">Shadows Gcina</string>
+    <string name="editsharpen">Cijela</string>
+    <string name="edittemperature">Ukushisa</string>
+    <string name="edittext">Hlela umbhalo</string>
+    <string name="effects">Imiphumela</string>
+    <string name="font">Ifonti</string>
+    <string name="frames">Amafreyimu Akhazimulayo</string>
+    <string name="gallery">Igalari</string>
+    <string name="label_cancel">Khansela</string>
+    <string name="label_ok">KULUNGILE</string>
+    <string name="permission_title_rationale">Imvume idingeka</string>
+    <string name="permission_write_storage_rationale">Imvume yokubhala yesitoreji iyadingeka ukuze ulondoloze isithombe.</string>
+    <string name="privacy_policy_title">Inqubomgomo yobumfihlo</string>
+    <string name="rate_us_title">Linganisa Us</string>
+    <string name="saved_pictures_title">Izithombe ezilondoloziwe</string>
+    <string name="savephoto">Ilondolozwe kugalari</string>
+    <string name="share">Yabelana ngohlelo lokusebenza</string>
+    <string name="stickers">Izitika</string>
+    <string name="ucrop_menu_crop">Khulisa</string>
+    <string name="editvignette">I-Vignette</string>
+</resources>

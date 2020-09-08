@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glitter Foto rame Effekte Filter Editor</string>
+    <string name="addtext">Voeg teks by</string>
+    <string name="camera">kamera</string>
+    <string name="label_cancel">kanselleer</string>
+    <string name="captions">onderskrifte</string>
+    <string name="gallery_message">Kies prentjie uit Gallery</string>
+    <string name="editcontrast">kontrasteer</string>
+    <string name="ucrop_menu_crop">oes</string>
+    <string name="editphoto">Wysig foto</string>
+    <string name="edittext">Wysig teks</string>
+    <string name="effects">Effekte</string>
+    <string name="editexposure">blootstelling</string>
+    <string name="font">font</string>
+    <string name="gallery">Gallery</string>
+    <string name="lb_gallery">Gallery</string>
+    <string name="frames">Glitterraamwerke</string>
+    <string name="edithightlightsave">Hoogtepunte Slaan</string>
+    <string name="more">meer</string>
+    <string name="moreapps">Meer Awesome Apps</string>
+    <string name="label_ok">OK</string>
+    <string name="permission_title_rationale">Toestemming benodig</string>
+    <string name="privacy_policy_title"><u>Privaatheidsbeleid</u></string>
+    <string name="rate_us_title">Gradeer ons</string>
+    <string name="saved_pictures_title">Gestoor beelde</string>
+    <string name="savephoto">Op Galery gestoor</string>
+    <string name="editshadowsave">Shadows Save</string>
+    <string name="share">Deel App</string>
+    <string name="share_message">Deel App met vriende</string>
+    <string name="editsharpen">verskerp</string>
+    <string name="stickers">plakkers</string>
+    <string name="permission_read_storage_rationale">Berging lees toestemming is nodig om lêers te kies.</string>
+    <string name="permission_write_storage_rationale">Skryftoestemming vir berging is nodig om die prent te stoor.</string>
+    <string name="edittemperature">temperatuur</string>
+    <string name="editvignette">vignette</string>
+</resources>

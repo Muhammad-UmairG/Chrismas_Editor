@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marcadors de brillants de fotos Editor de filtre d\'efectes</string>
+    <string name="camera">Càmera</string>
+    <string name="addtext">Afegeix text</string>
+    <string name="captions">Llegendes</string>
+    <string name="editexposure">Exposició</string>
+    <string name="edithightlightsave">Punts destacats Desa</string>
+    <string name="editphoto">Edita la foto</string>
+    <string name="editsharpen">Afilada</string>
+    <string name="edittemperature">Temperatura</string>
+    <string name="edittext">Edita el text</string>
+    <string name="editvignette">Vigneta</string>
+    <string name="effects">Efectes</string>
+    <string name="font">Font</string>
+    <string name="frames">Marcs brillants</string>
+    <string name="gallery">Galeria</string>
+    <string name="label_cancel">Cancel · lar</string>
+    <string name="label_ok">D\'acord</string>
+    <string name="permission_read_storage_rationale">Es necessita el permís de lectura d’emmagatzematge per triar fitxers.</string>
+    <string name="permission_title_rationale">Permís necessari</string>
+    <string name="permission_write_storage_rationale">Cal un permís d’escriptura d’emmagatzematge per guardar la imatge.</string>
+    <string name="privacy_policy_title"><u>Política de privacitat</u></string>
+    <string name="rate_us_title">Puntua\'ns</string>
+    <string name="saved_pictures_title">Imatges desades</string>
+    <string name="savephoto">Desat a la galeria</string>
+    <string name="share">Compartir aplicació</string>
+    <string name="stickers">Etiquetes adhesives</string>
+    <string name="ucrop_menu_crop">Recol·lecció</string>
+    <string name="editcontrast">Contrast</string>
+    <string name="editshadowsave">Shadows Save</string>
+</resources>

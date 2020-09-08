@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glitter กรอบรูปเอฟเฟกต์</string>
+    <string name="addtext">เพิ่มข้อความ</string>
+    <string name="camera">กล้อง</string>
+    <string name="captions">คำบรรยายภาพ</string>
+    <string name="editcontrast">ความแตกต่าง</string>
+    <string name="editexposure">การเปิดรับแสง</string>
+    <string name="edithightlightsave">ไฮไลท์บันทึก</string>
+    <string name="editphoto">แก้ไขรูปภาพ</string>
+    <string name="editshadowsave">บันทึกเงา</string>
+    <string name="editsharpen">กรีด</string>
+    <string name="edittemperature">อุณหภูมิ</string>
+    <string name="edittext">แก้ไขข้อความ</string>
+    <string name="editvignette">บทความสั้น</string>
+    <string name="effects">ผลกระทบ</string>
+    <string name="font">ตัวอักษร</string>
+    <string name="frames">กรอบรูป</string>
+    <string name="gallery">เฉลียง</string>
+    <string name="label_cancel">ยกเลิก</string>
+    <string name="label_ok">ตกลง</string>
+    <string name="permission_title_rationale">ต้องได้รับอนุญาต</string>
+    <string name="permission_write_storage_rationale">จำเป็นต้องมีสิทธิ์ในการเขียนที่เก็บเพื่อบันทึกภาพ</string>
+    <string name="privacy_policy_title">นโยบายความเป็นส่วนตัว</string>
+    <string name="rate_us_title">ให้คะแนนเรา</string>
+    <string name="saved_pictures_title">รูปภาพที่บันทึก</string>
+    <string name="savephoto">บันทึกไปที่คลังภาพแล้ว</string>
+    <string name="share">แชร์แอพ</string>
+    <string name="stickers">สติกเกอร์</string>
+    <string name="ucrop_menu_crop">พืชผล</string>
+</resources>

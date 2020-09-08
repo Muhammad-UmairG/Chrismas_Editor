@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glitter Fotoramar Effekter Filterredigerare</string>
+    <string name="addtext">Lägg till text</string>
+    <string name="camera">Kamera</string>
+    <string name="captions">Texter</string>
+    <string name="editcontrast">Kontrast</string>
+    <string name="editexposure">Exponering</string>
+    <string name="edithightlightsave">Höjdpunkter Spara</string>
+    <string name="editphoto">Redigera Foto</string>
+    <string name="editshadowsave">Skuggor Spara</string>
+    <string name="editsharpen">Skärpa</string>
+    <string name="edittemperature">Temperatur</string>
+    <string name="edittext">Redigera text</string>
+    <string name="editvignette">Vinjett</string>
+    <string name="effects">Effekter</string>
+    <string name="font">Font</string>
+    <string name="frames">Glitterramar</string>
+    <string name="gallery">Galleri</string>
+    <string name="label_cancel">Annullera</string>
+    <string name="label_ok">OK</string>
+    <string name="permission_title_rationale">Behörighet krävs</string>
+    <string name="permission_write_storage_rationale">Lagringsskrivningsbehörighet behövs för att spara bilden</string>
+    <string name="privacy_policy_title">Integritetspolicy</string>
+    <string name="rate_us_title">Gradera oss</string>
+    <string name="saved_pictures_title">Sparade bilder</string>
+    <string name="savephoto">Sparade till Galleri</string>
+    <string name="share">Dela app</string>
+    <string name="stickers">Klistermärken</string>
+    <string name="ucrop_menu_crop">Beskära</string>
+</resources>

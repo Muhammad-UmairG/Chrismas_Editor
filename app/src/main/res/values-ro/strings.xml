@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glitter Rame foto Efecte Editor Editor</string>
+    <string name="addtext">Adaugă text</string>
+    <string name="camera">Aparat foto</string>
+    <string name="captions">Legende</string>
+    <string name="editcontrast">Contrast</string>
+    <string name="editexposure">Expunere</string>
+    <string name="edithightlightsave">Repere Salvare</string>
+    <string name="editphoto">Editeaza poza</string>
+    <string name="editshadowsave">Umbrele Salvați</string>
+    <string name="editsharpen">Ascuţi</string>
+    <string name="edittemperature">Temperatura</string>
+    <string name="edittext">Editează textul</string>
+    <string name="editvignette">Vignette</string>
+    <string name="effects">Efecte</string>
+    <string name="font">Font</string>
+    <string name="frames">Glitter Frames</string>
+    <string name="gallery">Galerie</string>
+    <string name="label_cancel">Anulare</string>
+    <string name="label_ok">OK</string>
+    <string name="permission_title_rationale">Ai nevoie de permisiune</string>
+    <string name="permission_write_storage_rationale">Memorarea permisiunii de stocare este necesară pentru a salva imaginea.</string>
+    <string name="privacy_policy_title">Politica de confidentialitate</string>
+    <string name="rate_us_title">Ne evalua</string>
+    <string name="saved_pictures_title">Fotografiile salvate</string>
+    <string name="savephoto">Salvată în Galerie</string>
+    <string name="share">Trimiteți App</string>
+    <string name="stickers">Abțibilduri</string>
+    <string name="ucrop_menu_crop">A decupa</string>
+</resources>

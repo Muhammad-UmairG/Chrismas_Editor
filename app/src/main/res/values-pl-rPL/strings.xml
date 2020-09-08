@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Brokat ramki do zdjęć Edytor filtrów efektów</string>
+    <string name="addtext">Dodaj tekst</string>
+    <string name="camera">Aparat fotograficzny</string>
+    <string name="captions">Podpisy</string>
+    <string name="editcontrast">Kontrast</string>
+    <string name="editexposure">Ekspozycja</string>
+    <string name="edithightlightsave">Najważniejsze Zapisz</string>
+    <string name="editphoto">Edytuj zdjęcie</string>
+    <string name="editshadowsave">Zapisz cienie</string>
+    <string name="editsharpen">Wyostrzyć</string>
+    <string name="edittemperature">Temperatura</string>
+    <string name="edittext">Edytować tekst</string>
+    <string name="editvignette">Winieta</string>
+    <string name="effects">Ruchomości</string>
+    <string name="font">Czcionka</string>
+    <string name="frames">Brokatowe ramki</string>
+    <string name="gallery">Galeria</string>
+    <string name="label_cancel">Anuluj</string>
+    <string name="label_ok">DOBRZE</string>
+    <string name="permission_title_rationale">Wymagane pozwolenie</string>
+    <string name="permission_write_storage_rationale">Do zapisania obrazu potrzebne jest uprawnienie do zapisu w pamięci.</string>
+    <string name="privacy_policy_title"><u>Polityka prywatności</u></string>
+    <string name="rate_us_title">Oceń nas</string>
+    <string name="saved_pictures_title">Zapisane zdjęcia</string>
+    <string name="savephoto">Zapisano w galerii</string>
+    <string name="share">Udostępnij aplikacje</string>
+    <string name="stickers">Naklejki</string>
+    <string name="ucrop_menu_crop">Przyciąć</string>
+</resources>

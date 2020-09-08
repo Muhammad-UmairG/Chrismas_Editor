@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glitter Fotorammer Effekter Filter Editor</string>
+    <string name="addtext">Tilføj tekst</string>
+    <string name="camera">Kamera</string>
+    <string name="captions">Billedtekster</string>
+    <string name="editcontrast">Kontrast</string>
+    <string name="editexposure">Udsættelse</string>
+    <string name="edithightlightsave">Højdepunkter Spar</string>
+    <string name="editphoto">Rediger billede</string>
+    <string name="editshadowsave">Shadows Save</string>
+    <string name="editsharpen">Skærpe</string>
+    <string name="edittemperature">Temperatur</string>
+    <string name="edittext">Rediger tekst</string>
+    <string name="editvignette">Vignette</string>
+    <string name="effects">Effekter</string>
+    <string name="font">Font</string>
+    <string name="gallery">Galleri</string>
+    <string name="label_cancel">Afbestille</string>
+    <string name="label_ok">OKAY</string>
+    <string name="permission_title_rationale">Tilladelse nødvendig</string>
+    <string name="privacy_policy_title"><u>Fortrolighedspolitik</u></string>
+    <string name="rate_us_title">Bedøm os</string>
+    <string name="saved_pictures_title">Gemte billeder</string>
+    <string name="savephoto">Gemt til Galleri</string>
+    <string name="share">Del App</string>
+    <string name="stickers">Klistermærker</string>
+    <string name="ucrop_menu_crop">Afgrøde</string>
+    <string name="frames">Glitterrammer</string>
+    <string name="permission_write_storage_rationale">Opbevaringskorttilladelse er nødvendig for at gemme billedet.</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glitter Foto okvirji Učinki Urejevalnik filtrov</string>
+    <string name="addtext">Dodajte besedilo</string>
+    <string name="camera">Kamera</string>
+    <string name="captions">Napisi</string>
+    <string name="editcontrast">Kontrast</string>
+    <string name="editexposure">Izpostavljenost</string>
+    <string name="edithightlightsave">Značilnosti Shrani</string>
+    <string name="editphoto">Uredi fotografijo</string>
+    <string name="editshadowsave">Shadows Shrani</string>
+    <string name="editsharpen">Izostri</string>
+    <string name="edittemperature">Temperatura</string>
+    <string name="edittext">Uredi besedilo</string>
+    <string name="editvignette">Vinjete</string>
+    <string name="effects">Učinki</string>
+    <string name="font">Pisava</string>
+    <string name="frames">Glitter Frames</string>
+    <string name="gallery">Galerija</string>
+    <string name="label_cancel">Prekliči</string>
+    <string name="label_ok">V REDU</string>
+    <string name="permission_title_rationale">Potrebno je dovoljenje</string>
+    <string name="permission_write_storage_rationale">Za shranjevanje slike je potrebno dovoljenje za shranjevanje</string>
+    <string name="privacy_policy_title">Pravilnik o zasebnosti</string>
+    <string name="rate_us_title">Ocenite nas</string>
+    <string name="saved_pictures_title">Shranjene slike</string>
+    <string name="savephoto">Shranjeno v Galerijo</string>
+    <string name="share">Delite aplikacijo</string>
+    <string name="stickers">Nalepke</string>
+    <string name="ucrop_menu_crop">Crop</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="addtext">Pridaj text</string>
+    <string name="app_name">Glitter Foto rámčeky Effects Filter Editor</string>
+    <string name="camera">Fotoaparát</string>
+    <string name="captions">Titulky</string>
+    <string name="editcontrast">Contrast</string>
+    <string name="editexposure">Expozícia</string>
+    <string name="edithightlightsave">Upozornenie Uložiť</string>
+    <string name="editphoto">Upraviť fotografiu</string>
+    <string name="editshadowsave">Shadows Save</string>
+    <string name="editsharpen">Brúsiť</string>
+    <string name="edittemperature">Teplota</string>
+    <string name="edittext">Upraviť text</string>
+    <string name="editvignette">Vineta</string>
+    <string name="effects">Účinky</string>
+    <string name="font">Písmo</string>
+    <string name="frames">Glitrové Rámy</string>
+    <string name="gallery">Galéria</string>
+    <string name="label_cancel">Zrušiť</string>
+    <string name="label_ok">OK</string>
+    <string name="permission_title_rationale">Potrebné povolenie</string>
+    <string name="permission_write_storage_rationale">Na uloženie obrázku je potrebné povolenie na ukladanie do pamäte.</string>
+    <string name="privacy_policy_title">Zásady ochrany osobných údajov</string>
+    <string name="rate_us_title">Ohodnoť nás</string>
+    <string name="saved_pictures_title">Uložené obrázky</string>
+    <string name="savephoto">Uložené do Galérie</string>
+    <string name="share">Share App</string>
+    <string name="stickers">Samolepky</string>
+    <string name="ucrop_menu_crop">Plodina</string>
+</resources>

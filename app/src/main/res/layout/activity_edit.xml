@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:autofit="http://schemas.android.com/tools"
+    android:background="@color/colorPrimary">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/color_toolbar"
+        android:minHeight="?attr/actionBarSize">
+
+        <TextView
+            android:id="@+id/toolbar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/editphoto"
+            android:textColor="@color/white" />
+    </androidx.appcompat.widget.Toolbar>
+
+    <RelativeLayout
+        android:id="@+id/rlback"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/rvselect"
+        android:layout_below="@+id/toolbar">
+
+        <RelativeLayout
+            android:id="@+id/rlphoto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <jp.co.cyberagent.android.gpuimage.GPUImageView
+                android:id="@+id/gpuview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <ImageView
+                android:id="@+id/ivphoto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter" />
+
+            <ImageView
+                android:id="@+id/ivframe"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+
+                />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <HorizontalScrollView
+        android:id="@+id/hrzntl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bannerAdContainer">
+
+    <LinearLayout
+        android:id="@+id/llcontrol"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="@color/color_toolbar">
+
+        <ImageView
+            android:id="@+id/icframe"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:src="@drawable/icframe" />
+
+        <ImageView
+            android:id="@+id/icframe2"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:src="@drawable/ic_frame2" />
+
+        <ImageView
+            android:id="@+id/ic_santa"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:src="@drawable/ic_santa_claus" />
+
+        <ImageView
+            android:id="@+id/ic_hat"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:src="@drawable/ic_christmas_hat" />
+
+        <ImageView
+            android:id="@+id/ic_tree"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:src="@drawable/ic_christmas_tree" />
+
+        <ImageView
+            android:id="@+id/ic_gift"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:src="@drawable/ic_gift_box" />
+
+        <ImageView
+            android:id="@+id/ic_light"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:src="@drawable/ic_candle" />
+
+        <ImageView
+            android:id="@+id/iceffect"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:src="@drawable/iceffect" />
+
+        <ImageView
+            android:id="@+id/icadjust"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:src="@drawable/icadjust" />
+
+        <ImageView
+            android:id="@+id/icabc"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:src="@drawable/icabc" />
+
+        <ImageView
+            android:id="@+id/ictext"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:src="@drawable/ictext" />
+
+    </LinearLayout>
+
+    </HorizontalScrollView>
+
+    <LinearLayout
+        android:id="@+id/llchange"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_above="@+id/bannerAdContainer"
+        android:background="@color/color_toolbar"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        android:weightSum="7.0">
+
+        <ImageView
+            android:id="@+id/ivchangeexposure"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:padding="10dp"
+            android:src="@drawable/iceditlux" />
+
+        <ImageView
+            android:id="@+id/ivchangecontrast"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:padding="10dp"
+            android:src="@drawable/iceditcontrast" />
+
+        <ImageView
+            android:id="@+id/ivchangesharpen"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:padding="10dp"
+            android:src="@drawable/iceditshapren" />
+
+        <ImageView
+            android:id="@+id/ivchangetemperature"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:padding="10dp"
+            android:src="@drawable/iceditwarmth" />
+
+        <ImageView
+            android:id="@+id/ivchangehighlight"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:padding="10dp"
+            android:src="@drawable/icedithighlights" />
+
+        <ImageView
+            android:id="@+id/ivchangeshadow"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:padding="10dp"
+            android:src="@drawable/iceditshadow" />
+
+        <ImageView
+            android:id="@+id/ivchangevignette"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:padding="10dp"
+            android:src="@drawable/iceditvignette" />
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvselect"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_above="@+id/hrzntl" />
+
+    <RelativeLayout
+        android:id="@+id/rlslider"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_above="@+id/llchange"
+        android:background="@color/colorPrimary"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/tvslider"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:text="0"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <SeekBar
+            android:id="@+id/sbslider"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_below="@+id/tvslider"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="5dp"
+            android:max="12"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:progress="6"
+            android:progressTint="@color/white"
+            />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/bannerAdContainer"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_alignParentBottom="true"
+        />
+
+    <RelativeLayout
+        android:id="@+id/rltext"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bannerAdContainer"
+        android:layout_below="@+id/toolbar"
+        android:background="@color/color_toolbar"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:id="@+id/rlauto"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp">
+
+            <me.grantland.widget.AutofitTextView
+                android:id="@+id/afltext"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+
+                android:gravity="center"
+                android:inputType="text|textCapCharacters|textCapWords|textCapSentences|textAutoCorrect|textAutoComplete|textMultiLine|textImeMultiLine|textNoSuggestions|textUri|textEmailAddress|textEmailSubject|textShortMessage|textLongMessage|textPersonName|textPostalAddress|textPassword|textVisiblePassword|textWebEditText|textFilter|textPhonetic|textWebEmailAddress|textWebPassword|phone"
+                android:maxLines="3"
+                autofit:minTextSize="10sp"
+                android:textColor="#ffffff"
+                android:textSize="40sp" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/lltext"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/rlauto"
+            android:orientation="horizontal"
+            android:weightSum="5.0">
+
+            <ImageView
+                android:id="@+id/ivchangetext"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.0"
+                android:padding="10dp"
+                android:src="@drawable/ictype" />
+
+            <ImageView
+                android:id="@+id/ivchangefont"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.0"
+                android:padding="10dp"
+                android:src="@drawable/icfont" />
+
+            <ImageView
+                android:id="@+id/ivchangecolor"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.0"
+                android:padding="10dp"
+                android:src="@drawable/iccolor" />
+
+            <ImageView
+                android:id="@+id/ivcircle"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.0"
+                android:padding="10dp"
+                android:src="@drawable/iccircle" />
+
+            <ImageView
+                android:id="@+id/ivalign"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.0"
+                android:padding="10dp"
+                android:src="@drawable/iccentertextalignment" />
+        </LinearLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvtext"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/lltext"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:visibility="gone" />
+
+        <EditText
+            android:id="@+id/edtext"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/lltext"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/edit_text"
+            android:paddingLeft="10dp" />
+    </RelativeLayout>
+
+</RelativeLayout>

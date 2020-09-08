@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מסגרות תמונה Glitter אפקטים עורך מסנן</string>
+    <string name="addtext">הוסף טקסט</string>
+    <string name="camera">מצלמה</string>
+    <string name="captions">כיתובים</string>
+    <string name="editcontrast">בניגוד</string>
+    <string name="editexposure">חשיפה</string>
+    <string name="edithightlightsave">פסים שמור</string>
+    <string name="editphoto">ערוך תמונה</string>
+    <string name="editshadowsave">הצללים שמור</string>
+    <string name="editsharpen">חדד</string>
+    <string name="edittemperature">טמפרטורה</string>
+    <string name="edittext">ערוך טקסט</string>
+    <string name="editvignette">Vignette</string>
+    <string name="effects">אפקטים</string>
+    <string name="font">גופן</string>
+    <string name="frames">מסגרות גליטר</string>
+    <string name="gallery">גלריה</string>
+    <string name="label_cancel">בטל</string>
+    <string name="label_ok">בסדר</string>
+    <string name="permission_title_rationale">נדרשת הרשאה</string>
+    <string name="permission_write_storage_rationale">יש צורך בהרשאת אחסון כדי לשמור את התמונה</string>
+    <string name="privacy_policy_title">מדיניות פרטיות</string>
+    <string name="rate_us_title">דרג אותנו</string>
+    <string name="saved_pictures_title">תמונות שמורות</string>
+    <string name="savephoto">"נשמר בגלריה "</string>
+    <string name="share">שתף את האפליקציה</string>
+    <string name="stickers">סטיקרים</string>
+    <string name="ucrop_menu_crop">סטיקרים</string>
+</resources>

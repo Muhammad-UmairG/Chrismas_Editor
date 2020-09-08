@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Глиттер Пхото фрамес Ефекти Филтер Едитор</string>
+    <string name="addtext">Додати текст</string>
+    <string name="camera">Камера</string>
+    <string name="captions">Цаптионс</string>
+    <string name="editcontrast">Контраст</string>
+    <string name="editexposure">Изложеност</string>
+    <string name="edithightlightsave">Хигхлигхтс Саве</string>
+    <string name="editphoto">Изменити слику</string>
+    <string name="editshadowsave">Схадовс Саве</string>
+    <string name="editsharpen">Схарпен</string>
+    <string name="edittemperature">Температуре</string>
+    <string name="edittext">Измени текст</string>
+    <string name="editvignette">Вигнетте</string>
+    <string name="effects">Еффецтс</string>
+    <string name="font">Фонт</string>
+    <string name="frames">Глиттер Фрамес</string>
+    <string name="gallery">Галерија</string>
+    <string name="label_cancel">Поништити, отказати</string>
+    <string name="label_ok">У РЕДУ</string>
+    <string name="permission_title_rationale">Потребна дозвола</string>
+    <string name="permission_write_storage_rationale">Дозвола за складиштење је потребна за спремање слике.</string>
+    <string name="privacy_policy_title">Правила о приватности</string>
+    <string name="rate_us_title">Оцените нас</string>
+    <string name="saved_pictures_title">Савед Пицтурес</string>
+    <string name="savephoto">Сачуван у Галерију</string>
+    <string name="share">Схаре Апп</string>
+    <string name="stickers">Налепнице</string>
+    <string name="ucrop_menu_crop">Усев</string>
+</resources>

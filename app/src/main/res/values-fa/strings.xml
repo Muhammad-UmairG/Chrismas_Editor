@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">عکس فرفره عکس فرمت Effects Filter Editor</string>
+    <string name="addtext">متن را اضافه کن</string>
+    <string name="camera">دوربین</string>
+    <string name="captions">زیرنویس ها</string>
+    <string name="editcontrast">تضاد</string>
+    <string name="editexposure">گرفتن در معرض</string>
+    <string name="edithightlightsave">نکات برجسته ذخیره</string>
+    <string name="editphoto">ویرایش عکس</string>
+    <string name="editshadowsave">سایه ذخیره</string>
+    <string name="editsharpen">تیز کردن</string>
+    <string name="edittemperature">درجه حرارت</string>
+    <string name="edittext">ویرایش متن</string>
+    <string name="editvignette">وینت</string>
+    <string name="effects">اثرات</string>
+    <string name="font">فونت</string>
+    <string name="frames">فریم های زرق و برق دار</string>
+    <string name="gallery">گالری</string>
+    <string name="label_cancel">لغو</string>
+    <string name="label_ok">خوب</string>
+    <string name="permission_title_rationale">مجوز مورد نیاز است</string>
+    <string name="permission_write_storage_rationale">برای ذخیره تصویر ذخیره مجوز لازم است</string>
+    <string name="privacy_policy_title">سیاست حفظ حریم خصوصی</string>
+    <string name="rate_us_title">به ما رای دهید</string>
+    <string name="saved_pictures_title">تصاویر ذخیره شده</string>
+    <string name="savephoto">ذخیره شده به گالری</string>
+    <string name="share">نرم افزار اشتراک گذاری</string>
+    <string name="stickers">تابلوچسبها</string>
+    <string name="ucrop_menu_crop">محصول</string>
+</resources>

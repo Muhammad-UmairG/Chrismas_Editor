@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Khung ảnh long lanh Hiệu ứng Bộ lọc Chỉnh sửa</string>
+    <string name="addtext">Nhập kí tự</string>
+    <string name="camera">Máy ảnh</string>
+    <string name="captions">Chú thích</string>
+    <string name="editcontrast">Tương phản</string>
+    <string name="editexposure">Phơi bày</string>
+    <string name="edithightlightsave">Điểm nổi bật Lưu</string>
+    <string name="editphoto">Chỉnh sửa hình ảnh</string>
+    <string name="editshadowsave">Bóng tối Lưu</string>
+    <string name="editsharpen">Làm sắc nét</string>
+    <string name="edittemperature">Nhiệt độ</string>
+    <string name="edittext">Chỉnh sửa văn bản</string>
+    <string name="editvignette">Họa tiết</string>
+    <string name="effects">Hiệu ứng</string>
+    <string name="font">Phông chữ</string>
+    <string name="frames">Khung long lanh</string>
+    <string name="gallery">Bộ sưu tập</string>
+    <string name="label_cancel">Hủy bỏ</string>
+    <string name="label_ok">ĐƯỢC</string>
+    <string name="permission_title_rationale">Cần có sự cho phép</string>
+    <string name="permission_write_storage_rationale">Lưu trữ quyền cho phép là cần thiết để lưu hình ảnh.</string>
+    <string name="privacy_policy_title">Chính sách bảo mật</string>
+    <string name="rate_us_title">Đánh giá chúng tôi</string>
+    <string name="saved_pictures_title">Hình ảnh đã lưu</string>
+    <string name="savephoto">Lưu vào Thư viện</string>
+    <string name="share">Chia sẻ ứng dụng</string>
+    <string name="stickers">Nhãn dán</string>
+    <string name="ucrop_menu_crop">Mùa vụ</string>
+</resources>

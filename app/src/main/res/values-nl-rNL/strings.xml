@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glitter Fotolijsten Effecten Filtereditor</string>
+    <string name="addtext">Voeg tekst toe</string>
+    <string name="camera">Camera</string>
+    <string name="captions">Bijschriften</string>
+    <string name="editcontrast">Contrast</string>
+    <string name="editexposure">Blootstelling</string>
+    <string name="edithightlightsave">Hoogtepunten Opslaan</string>
+    <string name="editphoto">Bewerk foto</string>
+    <string name="editshadowsave">Schaduw Opslaan</string>
+    <string name="editsharpen">Scherpen</string>
+    <string name="edittemperature">Temperatuur</string>
+    <string name="edittext">Tekst bewerken</string>
+    <string name="editvignette">Vignet</string>
+    <string name="effects">Bijwerkingen</string>
+    <string name="font">Lettertype</string>
+    <string name="frames">Glitter Frames</string>
+    <string name="gallery">Galerij</string>
+    <string name="label_cancel">Annuleren</string>
+    <string name="label_ok">OK</string>
+    <string name="permission_title_rationale">Permissie nodig</string>
+    <string name="permission_write_storage_rationale">Opslag-schrijfrechten zijn nodig om de afbeelding op te slaan.</string>
+    <string name="privacy_policy_title"><u>Privacybeleid</u></string>
+    <string name="rate_us_title">Beoordeel ons</string>
+    <string name="saved_pictures_title">Opgeslagen afbeeldingen</string>
+    <string name="savephoto">Opgeslagen in galerij</string>
+    <string name="share">Deel app</string>
+    <string name="stickers">Stickers</string>
+    <string name="ucrop_menu_crop">Gewas</string>
+</resources>

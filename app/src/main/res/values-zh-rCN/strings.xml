@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">闪光相框效果滤镜编辑器</string>
+    <string name="addtext">添加文字</string>
+    <string name="camera">相机</string>
+    <string name="captions">标题</string>
+    <string name="editcontrast">对比</string>
+    <string name="editexposure">曝光</string>
+    <string name="edithightlightsave">亮点保存</string>
+    <string name="editphoto">修改照片</string>
+    <string name="editshadowsave">阴影保存</string>
+    <string name="editsharpen">锐化</string>
+    <string name="edittemperature">温度</string>
+    <string name="edittext">编辑文字</string>
+    <string name="editvignette">暗角</string>
+    <string name="effects">影响</string>
+    <string name="font">字体</string>
+    <string name="frames">闪光帧</string>
+    <string name="gallery">画廊</string>
+    <string name="label_cancel">取消</string>
+    <string name="label_ok">好</string>
+    <string name="permission_title_rationale">需要许可</string>
+    <string name="permission_write_storage_rationale">保存图像需要存储写入权限</string>
+    <string name="privacy_policy_title"><u>隐私政策</u></string>
+    <string name="rate_us_title">评价我们</string>
+    <string name="saved_pictures_title">保存的图片</string>
+    <string name="savephoto">保存到图库</string>
+    <string name="share">分享应用程序</string>
+    <string name="stickers">贴纸</string>
+    <string name="ucrop_menu_crop">作物</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Блясък Фоторамки Ефекти Редактор на филтри</string>
+    <string name="addtext">Добави текст</string>
+    <string name="camera">Камера</string>
+    <string name="label_cancel">Отказ</string>
+    <string name="captions">Надписи</string>
+    <string name="gallery_message">Изберете снимка от Галерия</string>
+    <string name="editcontrast">контраст</string>
+    <string name="ucrop_menu_crop">реколта</string>
+    <string name="editphoto">Редактиране на снимка</string>
+    <string name="edittext">Редактиране на текст</string>
+    <string name="effects">вещи</string>
+    <string name="editexposure">експозиция</string>
+    <string name="font">Шрифт</string>
+    <string name="gallery">галерия</string>
+    <string name="frames">Блестящи рамки</string>
+    <string name="edithightlightsave">Акценти Запазване</string>
+    <string name="more">| Повече ▼</string>
+    <string name="moreapps">Още страхотни приложения</string>
+    <string name="label_ok">Добре</string>
+    <string name="permission_title_rationale">Необходимо е разрешение</string>
+    <string name="privacy_policy_title"><u>Декларация за поверителност</u></string>
+    <string name="rate_us_title">Оцени ни</string>
+    <string name="saved_pictures_title">Запазени снимки</string>
+    <string name="savephoto">Запазено в Галерия</string>
+    <string name="editshadowsave">Запази Сянката</string>
+    <string name="share">Споделете приложението</string>
+    <string name="share_message">Споделете приложението с приятели</string>
+    <string name="editsharpen">остря</string>
+    <string name="stickers">Стикери</string>
+    <string name="permission_read_storage_rationale">Необходимо е разрешение за четене на съхранение, за да изберете файлове.</string>
+    <string name="permission_write_storage_rationale">За да запишете изображението, е необходимо разрешение за запис.</string>
+    <string name="edittemperature">температура</string>
+    <string name="editvignette">винетка</string>
+</resources>
